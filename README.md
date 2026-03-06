@@ -1,5 +1,3 @@
-Great work Aman 👍 This is a **complete professional IT company website layout** using Bootstrap 5. I’ll explain the whole code section by section in a simple way so you clearly understand the structure and logic.
-
 ---
 
 # 🔹 1. Basic HTML Structure
